@@ -1,4 +1,4 @@
-<template>
+.<template>
     <div class="navbar bg-[#0B0C0C] text-[#E9EAEC] shadow-2xl">
         <div class="navbar-start">
             <div class="dropdown">
